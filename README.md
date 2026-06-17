@@ -65,14 +65,15 @@ Full Stack Developer
 ### Dashboard
 ![Dashboard](docs/dashboard.png)
 
-### Data Guru
-![Guru](docs/guru.png)
+### Menu Data Karyawan
+![Guru](docs/karyawan.png)
 
-### Data Pegawai
-![Pegawai](docs/pegawai.png)
+### Menu Data Lengkap Karyawan
+![Pegawai](docs/view.png)
 
-### Data Siswa
-![Siswa](docs/siswa.png)
+### Menu View Izin Karyawan
+![Siswa](docs/izin.png)
+
 
 ## 📚 Yang Saya Pelajari
 
